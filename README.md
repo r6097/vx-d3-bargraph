@@ -1,3 +1,15 @@
+# README
+This repo includes a simple bar graph, grouped bar graph, stacked bar graph, heatmaps, and some bargraph components from KYS.
+
+## Launch
+Inside the folder do
+```
+npm install
+```
+```
+npm start
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
